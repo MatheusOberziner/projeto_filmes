@@ -13,7 +13,7 @@
             "ano"     => $_POST['ano'],
             "resumo"  => $_POST['resumo'],
             "imagem"   => $_POST['imagem'],
-            "complementos" => $_POST['complemetos']
+            "complementos" => $_POST['complementos']
             ))) {
             echo "
                 <br>

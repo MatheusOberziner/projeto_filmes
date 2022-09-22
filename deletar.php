@@ -44,6 +44,20 @@
             <?php echo $filme['resumo']; ?>
         </td>
     </tr>
+
+    <tr>
+        <td>Imagem</td>
+        <td>
+            <?php echo $filme['imagem']; ?>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Complementos</td>
+        <td>
+            <?php echo $filme['complementos']; ?>
+        </td>
+    </tr>
 </table>
 <form method="post">
 
